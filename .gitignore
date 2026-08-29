@@ -1,0 +1,10 @@
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Optional: local environment files
+.env
+.venv/
+__pycache__/
+*.pyc
